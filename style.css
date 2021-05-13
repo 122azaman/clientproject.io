@@ -28,7 +28,7 @@ html {
   background-size: cover;
   height: 500px;
 }
-td {
+.tdjumbo {
   padding-top: 100px;
   padding-right: 30px;
   padding-left: 30px;
@@ -97,4 +97,20 @@ hr {
   background-color: darkgray;
   margin-top: 7px;
   margin-bottom: 5px;
+}
+.tabletop {
+  text-align: center;
+}
+th {
+  text-align: center;
+  border: solid black 1px;
+}
+td {
+  text-align: center;
+  height: 100px;
+  width: 200px;
+  border: solid black 1px;
+}
+.cal {
+  border: solid black 2px;
 }
